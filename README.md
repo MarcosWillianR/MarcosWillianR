@@ -27,6 +27,4 @@
 <br />
 
 
-<img align="left" alt="Marcos Willian Github Stats" src="https://github-readme-stats.vercel.app/api?username=MarcosWillianR&show_icons=true&hide_border=true" />
-
 [linkedin]: https://www.linkedin.com/in/marcos-willian-977311188/
