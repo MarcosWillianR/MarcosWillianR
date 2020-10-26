@@ -1,10 +1,16 @@
 ### Olá 👋
 
 ## Sou Desenvolvedor Front (React) e Back-end (Node.js)!
-- 🔭 Atualmente estou finalizando o Bootcamp da Rocketseat 🚀
-- 🌱 Estou melhorando minhas skills em React e Node.js
-- 🥅 Metas para 2020: Aprender Electron, um pouco de Arduino e melhorar com minha stack atual (ReactJS, React Native e Node.js)
-- ⚡ Algo sobre mim: Gosto de aprender novas línguas e acredito que a combinação Arduino, IOT e I.A é matadora! 🤣
+- 🔭 Atualmente estou:
+  - estudando para passar em um vestibular 📚
+  - estudando CI/CD e Testes automatizado backend/frontend 🎯
+  - estudando inglês 🌎
+  - procurando um job 🔍
+
+- ⚡ Algumas coisas sobre mim: 
+  - Difícilmente leio livros 🤣
+  - Com muita dedicação pretendo ser fluente em pelo menos 4 línguas 😁
+  - Caminhando para me tornar um **T-Shaped developer** 👻
 
 ### Vamos nos conectar?
 
