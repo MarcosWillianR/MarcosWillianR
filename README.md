@@ -5,7 +5,7 @@
   - estudando para passar em um vestibular 📚
   - estudando CI/CD e Testes automatizado backend/frontend 🎯
   - estudando inglês 🌎
-  - procurando um job 🔍
+  - trabalhando como Mobile Developer na Ganhe Junto
 
 - ⚡ Algumas coisas sobre mim: 
   - Difícilmente leio livros 🤣
