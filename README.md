@@ -3,7 +3,7 @@
 ## Sou Desenvolvedor Front (React) e Back-end (Node.js)!
 - 🔭 Atualmente estou:
   - estudando para passar em um vestibular 📚
-  - estudando CI/CD e Testes automatizado backend/frontend 🎯
+  - criando projetos para aperfeiçoar minhas skills 🎯
   - estudando inglês 🌎
   - trabalhando como Mobile Developer na Ganhe Junto
 
