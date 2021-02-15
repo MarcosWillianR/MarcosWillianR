@@ -8,7 +8,7 @@
   - trabalhando como Mobile Developer na Ganhe Junto
 
 - ⚡ Algumas coisas sobre mim: 
-  - Difícilmente leio livros 🤣
+  - **Começando a ler livros!**
   - Com muita dedicação pretendo ser fluente em pelo menos 4 línguas 😁
   - Caminhando para me tornar um **T-Shaped developer** 👻
 
