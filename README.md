@@ -1,6 +1,6 @@
 ### Olá 👋
 
-## Sou Desenvolvedor Front (React) e Back-end (Node.js)!
+## Sou Desenvolvedor Front (React)!
 - 🔭 Atualmente estou:
   - estudando para passar em um vestibular 📚
   - criando projetos para aperfeiçoar minhas skills 🎯
