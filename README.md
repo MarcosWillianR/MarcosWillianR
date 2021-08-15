@@ -1,6 +1,6 @@
 ### Olá 👋
 
-## Sou Desenvolvedor Front (React)!
+## Programo umas coisas ai
 - 🔭 Atualmente estou:
   - trabalhando como Mobile Developer na Ganhe Junto
   - Estudando C#, Flutter e C
