@@ -2,8 +2,8 @@
 
 ## Programo umas coisas ai
 - 🔭 Atualmente estou:
-  - trabalhando como Mobile Developer na Ganhe Junto
-  - Estudando C#, Flutter e C
+  - trabalhando como Front-end Developer na Ganhe Junto
+  - Estudando Python
 
 - ⚡ Algumas coisas sobre mim: 
   - Com muita dedicação pretendo ser fluente em pelo menos 4 línguas 😁
