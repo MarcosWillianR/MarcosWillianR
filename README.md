@@ -21,6 +21,8 @@
   <a href="https://www.linkedin.com/in/marcos-willian-977311188/">LinkedIn</a>
 </p>
 
+[![React Mid-Level Certificate](https://img.shields.io/badge/React_Certified-Mid--Level-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=1A365D)](https://certificates.dev/react/certificates/9f8de7c5-ed59-4000-b0f6-3bbb525e9d9c)
+
 <br/>
 
 <p align="center">
