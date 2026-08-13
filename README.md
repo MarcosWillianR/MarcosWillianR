@@ -17,7 +17,6 @@
 </p>
 
 <p align="center">
-  <a href="mailto:markusuuuu@gmail.com">Email</a> |
   <a href="https://www.linkedin.com/in/marcos-willian-977311188/">LinkedIn</a>
 </p>
 
